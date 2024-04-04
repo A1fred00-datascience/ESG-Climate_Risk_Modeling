@@ -1,0 +1,1089 @@
+"id","model","scenario","region","variable","unit","year","value","id_pais"
+"15472638","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2020,"0",252
+"15472639","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2025,"0",252
+"15472640","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2030,"0",252
+"15472641","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2035,"0",252
+"15472642","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2040,"0",252
+"15472643","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2045,"0",252
+"15472644","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2050,"0",252
+"15472645","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2055,"0",252
+"15472646","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2060,"0",252
+"15472647","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2065,"0",252
+"15472648","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2070,"0",252
+"15472649","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2075,"0",252
+"15472650","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2080,"0",252
+"15472651","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2085,"0",252
+"15472652","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2090,"0",252
+"15472653","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2095,"0",252
+"15472654","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon","US$2010/t CO2",2100,"0",252
+"15473198","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2020,"0",252
+"15473199","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2025,"105.369587043545",252
+"15473200","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2030,"145.526938852909",252
+"15473201","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2035,"171.955638386182",252
+"15473202","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2040,"215.945040002727",252
+"15473203","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2045,"353.388251389909",252
+"15473204","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2050,"677.672107232727",252
+"15473205","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2055,"733.9973274",252
+"15473206","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2060,"900.885184306364",252
+"15473207","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2065,"925.479924087273",252
+"15473208","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2070,"988.134703273636",252
+"15473209","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2075,"1087.11313075636",252
+"15473210","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2080,"1221.70824729818",252
+"15473211","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2085,"1253.66197797",252
+"15473212","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2090,"1271.70804271091",252
+"15473213","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2095,"1288.95619439455",252
+"15473214","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon","US$2010/t CO2",2100,"1432.98156836455",252
+"15474318","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2020,"4820.96367110787",252
+"15474319","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2025,"4734.19264931883",252
+"15474320","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2030,"4495.05905949613",252
+"15474321","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2035,"4270.70818108076",252
+"15474322","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2040,"4088.72496176703",252
+"15474323","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2045,"3976.97659347724",252
+"15474324","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2050,"3905.39263581245",252
+"15474325","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2055,"3869.21212566394",252
+"15474326","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2060,"3845.21581239234",252
+"15474327","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2065,"3769.36084536276",252
+"15474328","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2070,"3823.58885427149",252
+"15474329","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2075,"3877.93661203075",252
+"15474330","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2080,"3934.76216719094",252
+"15474331","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2085,"3967.62868133749",252
+"15474332","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2090,"3993.60796889614",252
+"15474333","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2095,"4005.92816014746",252
+"15474334","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy","Mt CO2/yr",2100,"3985.76384442451",252
+"15474878","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2020,"4811.79604583204",252
+"15474879","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2025,"3970.96714705843",252
+"15474880","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2030,"3094.50022528851",252
+"15474881","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2035,"2067.3305610425",252
+"15474882","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2040,"1234.61489487515",252
+"15474883","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2045,"392.564961970233",252
+"15474884","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2050,"-381.233880973008",252
+"15474885","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2055,"-438.515689823826",252
+"15474886","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2060,"-439.74291268691",252
+"15474887","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2065,"-497.04913152474",252
+"15474888","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2070,"-523.669755795299",252
+"15474889","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2075,"-536.920275805336",252
+"15474890","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2080,"-531.780282481712",252
+"15474891","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2085,"-547.438351520638",252
+"15474892","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2090,"-567.476639299286",252
+"15474893","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2095,"-602.856036244129",252
+"15474894","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy","Mt CO2/yr",2100,"-575.369900485871",252
+"15475998","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2020,"59.7272867",252
+"15475999","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2025,"-14.11500513",252
+"15476000","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2030,"-87.95729696",252
+"15476001","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2035,"-161.7995888",252
+"15476002","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2040,"-235.6418806",252
+"15476003","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2045,"-309.4841725",252
+"15476004","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2050,"-383.3264643",252
+"15476005","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2055,"-209.03490072699",252
+"15476006","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2060,"-34.7433371539794",252
+"15476007","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2065,"-28.8420833011997",252
+"15476008","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2070,"-22.94082944842",252
+"15476009","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2075,"-17.0395755956403",252
+"15476010","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2080,"-11.1383217428606",252
+"15476011","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2085,"-5.23706789008084",252
+"15476012","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2090,"0.664185962698873",252
+"15476013","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2095,"6.56543981547858",252
+"15476014","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2100,"12.4666936682583",252
+"15476558","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2020,"59.7272867",252
+"15476559","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2025,"-47.9726181935959",252
+"15476560","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2030,"-155.672523087192",252
+"15476561","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2035,"-263.372427980788",252
+"15476562","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2040,"-371.072332874383",252
+"15476563","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2045,"-478.772237767979",252
+"15476564","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2050,"-586.472142661575",252
+"15476565","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2055,"-538.079477082618",252
+"15476566","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2060,"-489.686811503661",252
+"15476567","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2065,"-441.294145924704",252
+"15476568","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2070,"-392.901480345747",252
+"15476569","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2075,"-344.50881476679",252
+"15476570","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2080,"-296.116149187833",252
+"15476571","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2085,"-247.723483608876",252
+"15476572","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2090,"-199.330818029919",252
+"15476573","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2095,"-150.938152450962",252
+"15476574","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|AFOLU","Mt CO2/yr",2100,"-102.545486872004",252
+"15477678","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2020,"90.6812908528107",252
+"15477679","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2025,"91.4551397419505",252
+"15477680","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2030,"91.1364384792242",252
+"15477681","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2035,"90.5099086984916",252
+"15477682","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2040,"90.3258926794038",252
+"15477683","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2045,"91.1185914462957",252
+"15477684","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2050,"92.1642032294323",252
+"15477685","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2055,"93.7778136274848",252
+"15477686","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2060,"95.3703763931295",252
+"15477687","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2065,"96.2724131031677",252
+"15477688","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2070,"98.1421182475172",252
+"15477689","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2075,"99.806120542145",252
+"15477690","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2080,"101.110316982203",252
+"15477691","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2085,"102.100598904869",252
+"15477692","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2090,"102.798550134345",252
+"15477693","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2095,"103.200330340106",252
+"15477694","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy","EJ/yr",2100,"102.675974008765",252
+"15478238","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2020,"90.7198265783965",252
+"15478239","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2025,"83.998461485132",252
+"15478240","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2030,"82.8157483745982",252
+"15478241","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2035,"84.6968087596519",252
+"15478242","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2040,"85.4367965871479",252
+"15478243","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2045,"84.3332760593696",252
+"15478244","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2050,"81.828056575423",252
+"15478245","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2055,"80.824038155212",252
+"15478246","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2060,"78.853355819168",252
+"15478247","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2065,"79.7807288538045",252
+"15478248","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2070,"80.5635168803807",252
+"15478249","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2075,"80.7938257548323",252
+"15478250","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2080,"80.6124941898074",252
+"15478251","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2085,"81.1667266764449",252
+"15478252","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2090,"81.7753312417048",252
+"15478253","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2095,"82.1969974978769",252
+"15478254","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy","EJ/yr",2100,"81.2485466087618",252
+"15479358","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2020,"31.3434796028038",252
+"15479359","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2025,"31.3175447236298",252
+"15479360","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2030,"32.6069622329488",252
+"15479361","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2035,"33.5767691409846",252
+"15479362","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2040,"34.5268854086788",252
+"15479363","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2045,"36.2467622381367",252
+"15479364","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2050,"38.6388490244934",252
+"15479365","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2055,"40.8841496363605",252
+"15479366","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2060,"42.7592896807785",252
+"15479367","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2065,"41.5992197931545",252
+"15479368","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2070,"42.3912502246211",252
+"15479369","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2075,"43.2667871708141",252
+"15479370","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2080,"44.3634543493495",252
+"15479371","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2085,"44.9630515418748",252
+"15479372","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2090,"45.2964951502486",252
+"15479373","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2095,"45.1073239135242",252
+"15479374","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Gas","EJ/yr",2100,"43.8994191597757",252
+"15479918","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2020,"31.191631598592",252
+"15479919","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2025,"24.2974686704357",252
+"15479920","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2030,"22.8181516138505",252
+"15479921","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2035,"20.2424150722713",252
+"15479922","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2040,"17.008496883525",252
+"15479923","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2045,"12.64617103047",252
+"15479924","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2050,"9.68506076737301",252
+"15479925","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2055,"10.0605779872691",252
+"15479926","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2060,"9.75771442687947",252
+"15479927","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2065,"10.1200709951184",252
+"15479928","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2070,"10.5315677709962",252
+"15479929","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2075,"10.8257231741527",252
+"15479930","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2080,"11.2523626522108",252
+"15479931","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2085,"12.2273504782186",252
+"15479932","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2090,"13.3746633974355",252
+"15479933","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2095,"13.7818946384864",252
+"15479934","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Gas","EJ/yr",2100,"13.6484900135888",252
+"15481038","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2020,"36.4897193633231",252
+"15481039","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2025,"35.7715283916994",252
+"15481040","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2030,"33.2921518438894",252
+"15481041","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2035,"31.0517321336595",252
+"15481042","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2040,"29.5666859679792",252
+"15481043","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2045,"28.2882696877021",252
+"15481044","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2050,"27.0483052431835",252
+"15481045","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2055,"26.4765191987991",252
+"15481046","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2060,"26.420555398468",252
+"15481047","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2065,"26.7466058135989",252
+"15481048","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2070,"27.286162009058",252
+"15481049","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2075,"27.7477309321475",252
+"15481050","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2080,"28.1062596669135",252
+"15481051","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2085,"28.4670989705466",252
+"15481052","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2090,"28.9170886184304",252
+"15481053","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2095,"29.5175452816598",252
+"15481054","GCAM 5.3+ NGFS","Current Policies","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2100,"30.1358225518238",252
+"15481598","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2020,"36.4696073586401",252
+"15481599","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2025,"34.4699177792624",252
+"15481600","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2030,"31.5617225617769",252
+"15481601","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2035,"28.4792886367267",252
+"15481602","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2040,"26.3457165693007",252
+"15481603","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2045,"22.8803994818695",252
+"15481604","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2050,"17.3085960194415",252
+"15481605","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2055,"15.1218112397498",252
+"15481606","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2060,"13.1606737535396",252
+"15481607","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2065,"12.4022751192152",252
+"15481608","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2070,"11.9192195089316",252
+"15481609","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2075,"11.4847411065462",252
+"15481610","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2080,"11.0777581446027",252
+"15481611","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2085,"10.8032530440793",252
+"15481612","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2090,"10.5729025602838",252
+"15481613","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2095,"10.4619140758166",252
+"15481614","GCAM 5.3+ NGFS","Net Zero 2050","USA","Primary Energy|Oil|w/o CCS","EJ/yr",2100,"10.2697082040953",252
+"15482718","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2020,"15.70679929512",252
+"15482719","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2025,"15.83784017992",252
+"15482720","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2030,"15.92659939992",252
+"15482721","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2035,"15.77151283552",252
+"15482722","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2040,"15.82731817784",252
+"15482723","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2045,"15.69253326776",252
+"15482724","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2050,"15.34924488088",252
+"15482725","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2055,"15.02219136224",252
+"15482726","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2060,"14.72347624184",252
+"15482727","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2065,"14.4188545988",252
+"15482728","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2070,"14.12210831928",252
+"15482729","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2075,"13.84356574888",252
+"15482730","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2080,"13.48907756224",252
+"15482731","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2085,"13.10557317968",252
+"15482732","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2090,"12.70125072552",252
+"15482733","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2095,"12.2989616644",252
+"15482734","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Oil","US$2010/GJ",2100,"11.90867930504",252
+"15483278","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2020,"15.71002690312",252
+"15483279","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2025,"15.9910224556",252
+"15483280","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2030,"16.16195657528",252
+"15483281","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2035,"15.8525580724",252
+"15483282","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2040,"15.54638717752",252
+"15483283","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2045,"15.20361520792",252
+"15483284","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2050,"14.3875468012",252
+"15483285","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2055,"13.3298596596",252
+"15483286","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2060,"12.8633089232",252
+"15483287","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2065,"12.66229349696",252
+"15483288","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2070,"13.85263532736",252
+"15483289","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2075,"15.78245442664",252
+"15483290","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2080,"17.16674322176",252
+"15483291","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2085,"17.96851332504",252
+"15483292","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2090,"18.00950394664",252
+"15483293","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2095,"17.70597969032",252
+"15483294","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Oil","US$2010/GJ",2100,"17.26967164088",252
+"15484398","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2020,"6.17192884584",252
+"15484399","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2025,"6.43788374504",252
+"15484400","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2030,"6.19745922512",252
+"15484401","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2035,"6.0583815964",252
+"15484402","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2040,"6.0704851264",252
+"15484403","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2045,"6.19487713872",252
+"15484404","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2050,"6.41771119504",252
+"15484405","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2055,"6.47745421912",252
+"15484406","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2060,"6.35445007824",252
+"15484407","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2065,"6.23331795",252
+"15484408","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2070,"6.22873474664",252
+"15484409","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2075,"6.25984888776",252
+"15484410","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2080,"6.27714886664",252
+"15484411","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2085,"6.27727797096",252
+"15484412","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2090,"6.25797687512",252
+"15484413","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2095,"6.328532386",252
+"15484414","GCAM 5.3+ NGFS","Current Policies","USA","Price|Primary Energy|Gas","US$2010/GJ",2100,"6.4949155784",252
+"15484958","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2020,"6.1603740092",252
+"15484959","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2025,"6.37604277576",252
+"15484960","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2030,"5.85152419968",252
+"15484961","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2035,"5.57320756184",252
+"15484962","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2040,"5.84200275608",252
+"15484963","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2045,"5.96507144912",252
+"15484964","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2050,"6.35880734904",252
+"15484965","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2055,"6.20052545272",252
+"15484966","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2060,"5.87882976336",252
+"15484967","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2065,"5.3549244328",252
+"15484968","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2070,"4.80310029304",252
+"15484969","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2075,"4.68467935552",252
+"15484970","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2080,"4.64368873392",252
+"15484971","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2085,"4.49015142136",252
+"15484972","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2090,"4.13559868256",252
+"15484973","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2095,"3.90514747136",252
+"15484974","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Primary Energy|Gas","US$2010/GJ",2100,"3.64761662904",252
+"15486078","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2020,"15.9639583105",252
+"15486079","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2025,"17.43266417581",252
+"15486080","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2030,"19.258462985669",252
+"15486081","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2035,"20.881538778912",252
+"15486082","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2040,"22.197184576156",252
+"15486083","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2045,"23.066208713",252
+"15486084","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2050,"23.81968670637",252
+"15486085","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2055,"24.501001601016",252
+"15486086","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2060,"25.128077625642",252
+"15486087","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2065,"25.507381065656",252
+"15486088","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2070,"25.945381770279",252
+"15486089","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2075,"26.251547850098",252
+"15486090","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2080,"26.495612164568",252
+"15486091","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2085,"26.6313374670533",252
+"15486092","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2090,"26.6830770095859",252
+"15486093","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2095,"26.643416184603",252
+"15486094","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Electricity","EJ/yr",2100,"26.21379260075",252
+"15486638","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2020,"16.09319294566",252
+"15486639","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2025,"17.34224202196",252
+"15486640","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2030,"19.365207846324",252
+"15486641","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2035,"21.951183087824",252
+"15486642","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2040,"24.25976066387",252
+"15486643","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2045,"26.296481587962",252
+"15486644","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2050,"29.876666753301",252
+"15486645","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2055,"32.7377541117347",252
+"15486646","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2060,"35.4978121302634",252
+"15486647","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2065,"37.412946412088",252
+"15486648","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2070,"38.7903074447462",252
+"15486649","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2075,"39.8413165172852",252
+"15486650","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2080,"40.6206652162301",252
+"15486651","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2085,"41.1362257025098",252
+"15486652","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2090,"41.3446498520591",252
+"15486653","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2095,"41.357389689166",252
+"15486654","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Electricity","EJ/yr",2100,"41.0132151965619",252
+"15487758","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2020,"32.9161146664",252
+"15487759","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2025,"31.99392250864",252
+"15487760","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2030,"31.0573352192",252
+"15487761","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2035,"30.98658605184",252
+"15487762","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2040,"31.24395551376",252
+"15487763","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2045,"31.29588772648",252
+"15487764","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2050,"30.98177691592",252
+"15487765","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2055,"30.78737808608",252
+"15487766","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2060,"30.31682511576",252
+"15487767","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2065,"30.5580242616",252
+"15487768","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2070,"30.25198247104",252
+"15487769","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2075,"29.92744648664",252
+"15487770","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2080,"29.33182370632",252
+"15487771","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2085,"28.89971154728",252
+"15487772","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2090,"28.44145576344",252
+"15487773","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2095,"28.18340850384",252
+"15487774","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2100,"29.22766879616",252
+"15488318","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2020,"32.4523073968",252
+"15488319","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2025,"38.0150897848",252
+"15488320","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2030,"38.5347346728",252
+"15488321","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2035,"37.6606984264",252
+"15488322","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2040,"38.8035944192",252
+"15488323","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2045,"41.736199048",252
+"15488324","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2050,"44.0465208544",252
+"15488325","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2055,"43.3558127424",252
+"15488326","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2060,"43.430693248",252
+"15488327","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2065,"42.7293340296",252
+"15488328","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2070,"42.2836013648",252
+"15488329","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2075,"42.0518591104",252
+"15488330","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2080,"42.0066725984",252
+"15488331","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2085,"41.5112347704",252
+"15488332","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2090,"41.227850788",252
+"15488333","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2095,"41.084222232",252
+"15488334","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2100,"43.1101917736",252
+"15489438","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2020,"88.7449444536516",252
+"15489439","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2025,"54.8625811836627",252
+"15489440","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2030,"63.3360555283188",252
+"15489441","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2035,"53.2455180082962",252
+"15489442","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2040,"46.6071796173053",252
+"15489443","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2045,"50.5533658219014",252
+"15489444","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2050,"70.743403041501",252
+"15489445","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2055,"55.9279567862182",252
+"15489446","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2060,"63.6077144934249",252
+"15489447","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2065,"82.4933370547307",252
+"15489448","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2070,"51.1936252152906",252
+"15489449","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2075,"52.4548391583623",252
+"15489450","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2080,"62.7122309890427",252
+"15489451","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2085,"53.4596898195627",252
+"15489452","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2090,"59.7526030804593",252
+"15489453","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2095,"72.5765092650484",252
+"15489454","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2100,"58.0929854749886",252
+"15489998","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2020,"93.4193109074555",252
+"15489999","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2025,"127.424938319942",252
+"15490000","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2030,"135.228022628872",252
+"15490001","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2035,"143.500950936905",252
+"15490002","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2040,"134.148276094638",252
+"15490003","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2045,"157.421749095749",252
+"15490004","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2050,"213.520708834151",252
+"15490005","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2055,"203.999948233214",252
+"15490006","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2060,"197.693063531572",252
+"15490007","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2065,"149.094115628317",252
+"15490008","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2070,"134.161961261019",252
+"15490009","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2075,"165.093862022416",252
+"15490010","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2080,"218.342837305299",252
+"15490011","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2085,"208.855210306106",252
+"15490012","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2090,"197.557390947716",252
+"15490013","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2095,"149.633330843841",252
+"15490014","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Low Carbon","billion US$2010/yr",2100,"148.390506206588",252
+"15491118","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2020,"3.49342922728406",252
+"15491119","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2025,"1.54171106344036",252
+"15491120","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2030,"1.55788671962227",252
+"15491121","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2035,"1.66947890255813",252
+"15491122","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2040,"1.72944995622397",252
+"15491123","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2045,"2.01144759696106",252
+"15491124","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2050,"2.81285697258964",252
+"15491125","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2055,"2.45403102649012",252
+"15491126","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2060,"3.02190143894213",252
+"15491127","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2065,"4.70142118955316",252
+"15491128","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2070,"3.29916624117772",252
+"15491129","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2075,"3.67696883749606",252
+"15491130","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2080,"4.41320465474976",252
+"15491131","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2085,"3.86384127083655",252
+"15491132","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2090,"4.29980952987",252
+"15491133","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2095,"5.27228163644908",252
+"15491134","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2100,"2.50860772899003",252
+"15491678","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2020,"3.80607139693836",252
+"15491679","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2025,"4.06403508445038",252
+"15491680","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2030,"2.45432942301616",252
+"15491681","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2035,"1.51014032849605",252
+"15491682","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2040,"1.42388949225066",252
+"15491683","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2045,"1.61338122437554",252
+"15491684","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2050,"1.64927643068641",252
+"15491685","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2055,"1.4420896863794",252
+"15491686","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2060,"1.18092269486715",252
+"15491687","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2065,"1.12029716671401",252
+"15491688","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2070,"1.06597591453496",252
+"15491689","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2075,"0.999967455874799",252
+"15491690","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2080,"0.919437926960027",252
+"15491691","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2085,"0.887142423698964",252
+"15491692","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2090,"0.877068087048461",252
+"15491693","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2095,"0.890979772653815",252
+"15491694","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Biomass","billion US$2010/yr",2100,"0.859471782720772",252
+"15492798","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2020,"1.01750996015936",252
+"15492799","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2025,"1.03533864541833",252
+"15492800","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2030,"1.0502390438247",252
+"15492801","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2035,"1.06761952191235",252
+"15492802","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2040,"1.08400398406374",252
+"15492803","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2045,"1.09696215139442",252
+"15492804","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2050,"1.10548804780876",252
+"15492805","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2055,"1.12825697211155",252
+"15492806","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2060,"1.14627490039841",252
+"15492807","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2065,"1.16164342629482",252
+"15492808","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2070,"1.17326693227092",252
+"15492809","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2075,"1.1819422310757",252
+"15492810","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2080,"1.18519920318725",252
+"15492811","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2085,"1.18522908366534",252
+"15492812","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2090,"1.18125498007968",252
+"15492813","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2095,"1.17396414342629",252
+"15492814","GCAM 5.3+ NGFS","Current Policies","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2100,"1.16137450199203",252
+"15493358","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2020,"1.01815737051793",252
+"15493359","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2025,"1.54529880478088",252
+"15493360","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2030,"1.72770916334661",252
+"15493361","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2035,"1.90913346613546",252
+"15493362","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2040,"2.11886454183267",252
+"15493363","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2045,"2.69700199203187",252
+"15493364","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2050,"4.04862549800797",252
+"15493365","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2055,"4.36884462151394",252
+"15493366","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2060,"5.1221812749004",252
+"15493367","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2065,"5.24682270916335",252
+"15493368","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2070,"5.52022908366534",252
+"15493369","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2075,"5.93806772908366",252
+"15493370","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2080,"6.50024900398406",252
+"15493371","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2085,"6.61909362549801",252
+"15493372","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2090,"6.67091633466135",252
+"15493373","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2095,"6.71208167330677",252
+"15493374","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Agriculture|Non-Energy Crops|Index","Index (2005 = 1)",2100,"7.28610557768924",252
+"15494478","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2020,"138.9015879896",252
+"15494479","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2025,"153.6696329447",252
+"15494480","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2030,"172.282412",252
+"15494481","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2035,"191.8241282076",252
+"15494482","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2040,"203.6632593426",252
+"15494483","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2045,"206.1981467197",252
+"15494484","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2050,"209.5422313515",252
+"15494485","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2055,"214.1390759885",252
+"15494486","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2060,"221.3900569924",252
+"15494487","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2065,"227.1851559513",252
+"15494488","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2070,"236.6921754396",252
+"15494489","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2075,"245.2749877653",252
+"15494490","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2080,"251.9990716834",252
+"15494491","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2085,"256.1516620197",252
+"15494492","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2090,"259.3909279859",252
+"15494493","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2095,"262.1093767051",252
+"15494494","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2100,"264.7990152314",252
+"15495038","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2020,"138.6997219756",252
+"15495039","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2025,"148.9590272562",252
+"15495040","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2030,"166.6992770727",252
+"15495041","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2035,"191.3913928034",252
+"15495042","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2040,"211.3800503034",252
+"15495043","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2045,"218.6194526654",252
+"15495044","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2050,"227.4931579379",252
+"15495045","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2055,"245.9287647482",252
+"15495046","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2060,"257.129756486",252
+"15495047","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2065,"267.075105776",252
+"15495048","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2070,"274.629199186",252
+"15495049","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2075,"280.2526147",252
+"15495050","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2080,"284.205809285",252
+"15495051","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2085,"289.630426863",252
+"15495052","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2090,"294.355212145",252
+"15495053","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2095,"297.645467042",252
+"15495054","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand|Crops|Feed","million t DM/yr",2100,"296.242245654",252
+"15496158","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2020,"496.6003979896",252
+"15496159","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2025,"510.5748829447",252
+"15496160","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2030,"515.120602",252
+"15496161","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2035,"514.9010882076",252
+"15496162","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2040,"522.1998093426",252
+"15496163","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2045,"542.2684767197",252
+"15496164","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2050,"562.5903713515",252
+"15496165","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2055,"580.6323659885",252
+"15496166","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2060,"595.9534969924",252
+"15496167","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2065,"613.7827759513",252
+"15496168","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2070,"624.6557154396",252
+"15496169","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2075,"633.3614777653",252
+"15496170","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2080,"641.9562516834",252
+"15496171","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2085,"649.6786920197",252
+"15496172","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2090,"656.7114679859",252
+"15496173","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2095,"662.5184967051",252
+"15496174","GCAM 5.3+ NGFS","Current Policies","USA","Agricultural Demand","million t DM/yr",2100,"666.3592752314",252
+"15496718","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2020,"497.0173319756",252
+"15496719","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2025,"502.1842772562",252
+"15496720","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2030,"508.1080670727",252
+"15496721","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2035,"507.8889528034",252
+"15496722","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2040,"502.7350003034",252
+"15496723","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2045,"516.8373826654",252
+"15496724","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2050,"503.9775979379",252
+"15496725","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2055,"507.4530547482",252
+"15496726","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2060,"507.291896486",252
+"15496727","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2065,"519.550725776",252
+"15496728","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2070,"529.873339186",252
+"15496729","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2075,"534.0718047",252
+"15496730","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2080,"532.547789285",252
+"15496731","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2085,"536.114466863",252
+"15496732","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2090,"540.410962145",252
+"15496733","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2095,"544.194937042",252
+"15496734","GCAM 5.3+ NGFS","Net Zero 2050","USA","Agricultural Demand","million t DM/yr",2100,"541.451775654",252
+"15497838","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2020,"1527.49242506035",252
+"15497839","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2025,"1473.68094178984",252
+"15497840","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2030,"1382.56196665014",252
+"15497841","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2035,"1333.92375297129",252
+"15497842","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2040,"1282.98333779378",252
+"15497843","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2045,"1242.60895722763",252
+"15497844","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2050,"1234.97616662148",252
+"15497845","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2055,"1206.16957243927",252
+"15497846","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2060,"1168.41791357813",252
+"15497847","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2065,"1050.65077643089",252
+"15497848","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2070,"1069.00030321651",252
+"15497849","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2075,"1097.58361029308",252
+"15497850","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2080,"1140.11381952903",252
+"15497851","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2085,"1158.81496356696",252
+"15497852","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2090,"1174.47439397996",252
+"15497853","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2095,"1177.77041986148",252
+"15497854","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2100,"1136.08878554099",252
+"15498398","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2020,"1527.14329460098",252
+"15498399","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2025,"1017.31182959969",252
+"15498400","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2030,"420.936778552418",252
+"15498401","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2035,"-73.8002937017607",252
+"15498402","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2040,"-495.804493470797",252
+"15498403","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2045,"-901.862605688256",252
+"15498404","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2050,"-1148.39435024093",252
+"15498405","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2055,"-1069.89822750532",252
+"15498406","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2060,"-841.785987866128",252
+"15498407","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2065,"-807.620314021587",252
+"15498408","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2070,"-770.638988250676",252
+"15498409","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2075,"-731.698801699169",252
+"15498410","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2080,"-691.392592705263",252
+"15498411","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2085,"-704.001674965494",252
+"15498412","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2090,"-728.453360998718",252
+"15498413","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2095,"-762.18776841096",252
+"15498414","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Supply|Electricity","Mt CO2/yr",2100,"-719.880259683901",252
+"15499518","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2020,"2.98722",252
+"15499519","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2025,"2.77234",252
+"15499520","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2030,"2.26601",252
+"15499521","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2035,"1.90541",252
+"15499522","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2040,"1.54562",252
+"15499523","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2045,"1.1842",252
+"15499524","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2050,"0.82359",252
+"15499525","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2055,"0.462985",252
+"15499526","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2060,"0.10238",252
+"15499527","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2065,"8.11799e-06",252
+"15499528","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2070,"1.27227e-09",252
+"15499529","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2075,"0",252
+"15499530","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2080,"0",252
+"15499531","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2085,"0",252
+"15499532","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2090,"0",252
+"15499533","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2095,"0",252
+"15499534","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Coal","EJ/yr",2100,"0",252
+"15500078","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2020,"2.98725",252
+"15500079","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2025,"1.76415",252
+"15500080","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2030,"0.481186",252
+"15500081","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2035,"0.165354",252
+"15500082","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2040,"0.0538266",252
+"15500083","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2045,"0.00453325",252
+"15500084","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2050,"0.000119201",252
+"15500085","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2055,"4.89546e-05",252
+"15500086","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2060,"1.03877e-05",252
+"15500087","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2065,"5.32572e-06",252
+"15500088","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2070,"2.20773e-06",252
+"15500089","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2075,"0",252
+"15500090","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2080,"0",252
+"15500091","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2085,"0",252
+"15500092","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2090,"0",252
+"15500093","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2095,"0",252
+"15500094","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Coal","EJ/yr",2100,"0",252
+"15501198","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2020,"6.98452",252
+"15501199","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2025,"7.29621",252
+"15501200","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2030,"7.776244",252
+"15501201","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2035,"8.266251",252
+"15501202","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2040,"8.741773",252
+"15501203","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2045,"9.397423",252
+"15501204","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2050,"10.522624",252
+"15501205","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2055,"11.419807",252
+"15501206","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2060,"12.274492",252
+"15501207","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2065,"11.381343",252
+"15501208","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2070,"11.762552",252
+"15501209","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2075,"12.209992",252
+"15501210","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2080,"12.840359",252
+"15501211","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2085,"13.152593",252
+"15501212","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2090,"13.409894",252
+"15501213","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2095,"13.499204",252
+"15501214","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Gas","EJ/yr",2100,"12.867933",252
+"15501758","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2020,"6.9839",252
+"15501759","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2025,"5.60892",252
+"15501760","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2030,"5.043543575",252
+"15501761","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2035,"4.11000821",252
+"15501762","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2040,"3.02354047",252
+"15501763","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2045,"1.2327643",252
+"15501764","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2050,"0.47050737",252
+"15501765","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2055,"0.726653222",252
+"15501766","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2060,"0.990072443",252
+"15501767","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2065,"1.2231447527",252
+"15501768","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2070,"1.445152783",252
+"15501769","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2075,"1.7179722183",252
+"15501770","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2080,"2.06606693592",252
+"15501771","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2085,"2.42242833169",252
+"15501772","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2090,"2.76547220782",252
+"15501773","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2095,"2.77498806915",252
+"15501774","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Gas","EJ/yr",2100,"2.6821242781",252
+"15502878","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2020,"0.1660842",252
+"15502879","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2025,"0.0659159",252
+"15502880","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2030,"0.0567707",252
+"15502881","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2035,"0.0584514",252
+"15502882","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2040,"0.0627952",252
+"15502883","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2045,"0.07864897",252
+"15502884","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2050,"0.11427147",252
+"15502885","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2055,"0.11258869",252
+"15502886","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2060,"0.12965494",252
+"15502887","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2065,"0.18340135",252
+"15502888","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2070,"0.15762784",252
+"15502889","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2075,"0.17584235",252
+"15502890","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2080,"0.20553016",252
+"15502891","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2085,"0.21581904",252
+"15502892","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2090,"0.2481005",252
+"15502893","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2095,"0.3004836",252
+"15502894","GCAM 5.3+ NGFS","Current Policies","USA","Secondary Energy|Electricity|Oil","EJ/yr",2100,"0.2927186",252
+"15503438","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2020,"0.1728679",252
+"15503439","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2025,"0.080817",252
+"15503440","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2030,"0.0562025",252
+"15503441","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2035,"0.04810837",252
+"15503442","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2040,"0.04023449",252
+"15503443","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2045,"0.03306764",252
+"15503444","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2050,"0.019963069",252
+"15503445","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2055,"0.017671072",252
+"15503446","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2060,"0.011796891",252
+"15503447","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2065,"0.007937313",252
+"15503448","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2070,"0.005813382",252
+"15503449","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2075,"0.005527985",252
+"15503450","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2080,"0.005719304",252
+"15503451","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2085,"0.004868593",252
+"15503452","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2090,"0.0043587569",252
+"15503453","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2095,"0.0032056446",252
+"15503454","GCAM 5.3+ NGFS","Net Zero 2050","USA","Secondary Energy|Electricity|Oil","EJ/yr",2100,"0.0016372443",252
+"15504558","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2020,"2.183518770904",252
+"15504559","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2025,"2.169294702448",252
+"15504560","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2030,"2.180881815168",252
+"15504561","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2035,"2.176969954272",252
+"15504562","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2040,"2.1484572652",252
+"15504563","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2045,"2.128943147232",252
+"15504564","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2050,"2.106630693128",252
+"15504565","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2055,"2.089985918672",252
+"15504566","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2060,"2.082478502464",252
+"15504567","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2065,"2.08159736548",252
+"15504568","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2070,"2.072214709024",252
+"15504569","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2075,"2.054846950376",252
+"15504570","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2080,"2.0355716754",252
+"15504571","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2085,"2.015266793472",252
+"15504572","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2090,"1.998667205528",252
+"15504573","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2095,"1.985692221368",252
+"15504574","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2100,"1.973992142368",252
+"15505118","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2020,"2.183754386288",252
+"15505119","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2025,"2.041452377176",252
+"15505120","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2030,"2.100020551944",252
+"15505121","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2035,"2.07464187024",252
+"15505122","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2040,"2.06247378808",252
+"15505123","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2045,"2.436188835576",252
+"15505124","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2050,"2.8429578166",252
+"15505125","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2055,"2.89989282172",252
+"15505126","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2060,"3.087926808584",252
+"15505127","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2065,"3.09291991816",252
+"15505128","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2070,"3.140062360608",252
+"15505129","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2075,"3.225758580616",252
+"15505130","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2080,"3.34648080264",252
+"15505131","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2085,"3.34528658768",252
+"15505132","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2090,"3.32585638752",252
+"15505133","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2095,"3.30316630328",252
+"15505134","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Solids|Coal","US$2010/GJ",2100,"3.41209807328",252
+"15506238","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2020,"6.81745044584",252
+"15506239","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2025,"7.08340534504",252
+"15506240","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2030,"6.84298082512",252
+"15506241","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2035,"6.7039031964",252
+"15506242","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2040,"6.7160067264",252
+"15506243","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2045,"6.84039873872",252
+"15506244","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2050,"7.06323279504",252
+"15506245","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2055,"7.12297581912",252
+"15506246","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2060,"6.99997167824",252
+"15506247","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2065,"6.87883955",252
+"15506248","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2070,"6.87425634664",252
+"15506249","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2075,"6.90537048776",252
+"15506250","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2080,"6.92267046664",252
+"15506251","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2085,"6.92279957096",252
+"15506252","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2090,"6.90349847512",252
+"15506253","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2095,"6.974053986",252
+"15506254","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2100,"7.1404371784",252
+"15506798","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2020,"6.8058956092",252
+"15506799","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2025,"7.02156437576",252
+"15506800","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2030,"6.49704579968",252
+"15506801","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2035,"6.21872916184",252
+"15506802","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2040,"6.48752435608",252
+"15506803","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2045,"6.61059304912",252
+"15506804","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2050,"7.00432894904",252
+"15506805","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2055,"6.84604705272",252
+"15506806","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2060,"6.52435136336",252
+"15506807","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2065,"6.0004460328",252
+"15506808","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2070,"5.44862189304",252
+"15506809","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2075,"5.33020095552",252
+"15506810","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2080,"5.28921033392",252
+"15506811","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2085,"5.13567302136",252
+"15506812","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2090,"4.78112028256",252
+"15506813","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2095,"4.55066907136",252
+"15506814","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Gases|Natural Gas","US$2010/GJ",2100,"4.29313822904",252
+"15507918","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2020,"19.54500618",252
+"15507919","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2025,"19.65145269",252
+"15507920","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2030,"19.70080281",252
+"15507921","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2035,"19.50062657",252
+"15507922","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2040,"19.5262215",252
+"15507923","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2045,"19.35370585",252
+"15507924","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2050,"18.96506957",252
+"15507925","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2055,"18.59215174",252
+"15507926","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2060,"18.24499023",252
+"15507927","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2065,"17.89644084",252
+"15507928","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2070,"17.55721924",252
+"15507929","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2075,"17.2385575",252
+"15507930","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2080,"16.84107757",252
+"15507931","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2085,"16.41571112",252
+"15507932","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2090,"15.97017211",252
+"15507933","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2095,"15.53115287",252
+"15507934","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2100,"15.11072465",252
+"15508478","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2020,"19.54597446",252
+"15508479","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2025,"20.33128376",252
+"15508480","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2030,"20.62999888",252
+"15508481","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2035,"20.34848691",252
+"15508482","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2040,"20.15779983",252
+"15508483","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2045,"20.2921006",252
+"15508484","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2050,"20.61227931",252
+"15508485","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2055,"19.57944475",252
+"15508486","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2060,"19.5374213",252
+"15508487","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2065,"19.23509126",252
+"15508488","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2070,"20.48688674",252
+"15508489","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2075,"22.59722596",252
+"15508490","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2080,"24.21403163",252
+"15508491","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2085,"24.89828453",252
+"15508492","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2090,"24.75107333",252
+"15508493","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2095,"24.24708234",252
+"15508494","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids|Oil","US$2010/GJ",2100,"23.90085683",252
+"15509598","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2020,"138.757215631604",252
+"15509599","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2025,"77.3579234300894",252
+"15509600","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2030,"86.6279065148107",252
+"15509601","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2035,"73.7070436672132",252
+"15509602","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2040,"65.1694393401637",252
+"15509603","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2045,"71.1209655705531",252
+"15509604","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2050,"99.6275528825235",252
+"15509605","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2055,"79.3912978439779",252
+"15509606","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2060,"90.6897287016232",252
+"15509607","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2065,"116.614367753466",252
+"15509608","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2070,"72.6467529611994",252
+"15509609","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2075,"74.7002794232234",252
+"15509610","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2080,"89.5607978658153",252
+"15509611","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2085,"76.6850036378044",252
+"15509612","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2090,"85.8231336137786",252
+"15509613","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2095,"104.017499274017",252
+"15509614","GCAM 5.3+ NGFS","Current Policies","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2100,"77.7664709079675",252
+"15510158","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2020,"144.576428075576",252
+"15510159","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2025,"155.339296020732",252
+"15510160","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2030,"151.725405318973",252
+"15510161","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2035,"152.796903285389",252
+"15510162","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2040,"139.493143142046",252
+"15510163","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2045,"159.090424433867",252
+"15510164","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2050,"212.379882237926",252
+"15510165","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2055,"202.895286375933",252
+"15510166","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2060,"196.658221156983",252
+"15510167","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2065,"148.047023543394",252
+"15510168","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2070,"133.143048670633",252
+"15510169","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2075,"164.135837821656",252
+"15510170","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2080,"217.46725828706",252
+"15510171","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2085,"208.004058212129",252
+"15510172","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2090,"196.711561366204",252
+"15510173","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2095,"148.763882256154",252
+"15510174","GCAM 5.3+ NGFS","Net Zero 2050","USA","Post-processed|Investment|Energy Supply|Electricity","billion US$2010/yr",2100,"147.541814810519",252
+"15511278","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2020,"1926.72534258735",252
+"15511279","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2025,"1881.64293749054",252
+"15511280","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2030,"1702.24347643039",252
+"15511281","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2035,"1524.39327226388",252
+"15511282","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2040,"1410.13365825975",252
+"15511283","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2045,"1347.4456491427",252
+"15511284","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2050,"1291.45047548254",252
+"15511285","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2055,"1266.02971234804",252
+"15511286","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2060,"1259.70996648598",252
+"15511287","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2065,"1268.38010103182",252
+"15511288","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2070,"1291.32989045516",252
+"15511289","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2075,"1317.06908871248",252
+"15511290","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2080,"1344.93257324082",252
+"15511291","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2085,"1373.49751341433",252
+"15511292","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2090,"1402.78062933254",252
+"15511293","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2095,"1433.65018893584",252
+"15511294","GCAM 5.3+ NGFS","Current Policies","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2100,"1465.95091860076",252
+"15511838","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2020,"1926.05252333324",252
+"15511839","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2025,"1785.29967044665",252
+"15511840","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2030,"1575.313183084",252
+"15511841","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2035,"1346.74808496332",252
+"15511842","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2040,"1180.07874167834",252
+"15511843","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2045,"977.554201843993",252
+"15511844","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2050,"638.681097111135",252
+"15511845","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2055,"482.038617116992",252
+"15511846","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2060,"341.015396326975",252
+"15511847","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2065,"272.242110535228",252
+"15511848","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2070,"226.755328864174",252
+"15511849","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2075,"187.361182827593",252
+"15511850","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2080,"152.109578444332",252
+"15511851","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2085,"130.150997363605",252
+"15511852","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2090,"115.92892463239",252
+"15511853","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2095,"108.421833990616",252
+"15511854","GCAM 5.3+ NGFS","Net Zero 2050","USA","Emissions|CO2|Energy|Demand|Transportation","Mt CO2/yr",2100,"95.5618794572935",252
+"15512958","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2020,"0",252
+"15512959","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2025,"0",252
+"15512960","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2030,"0",252
+"15512961","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2035,"0",252
+"15512962","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2040,"0",252
+"15512963","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2045,"0",252
+"15512964","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2050,"0",252
+"15512965","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2055,"0",252
+"15512966","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2060,"0",252
+"15512967","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2065,"0",252
+"15512968","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2070,"0",252
+"15512969","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2075,"0",252
+"15512970","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2080,"0",252
+"15512971","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2085,"0",252
+"15512972","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2090,"0",252
+"15512973","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2095,"0",252
+"15512974","GCAM 5.3+ NGFS","Current Policies","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2100,"0",252
+"15513518","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2020,"0",252
+"15513519","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2025,"105.369587043545",252
+"15513520","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2030,"145.526938852909",252
+"15513521","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2035,"171.955638386182",252
+"15513522","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2040,"215.945040002727",252
+"15513523","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2045,"353.388251389909",252
+"15513524","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2050,"677.672107232727",252
+"15513525","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2055,"733.9973274",252
+"15513526","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2060,"900.885184306364",252
+"15513527","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2065,"925.479924087273",252
+"15513528","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2070,"988.134703273636",252
+"15513529","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2075,"1087.11313075636",252
+"15513530","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2080,"1221.70824729818",252
+"15513531","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2085,"1253.66197797",252
+"15513532","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2090,"1271.70804271091",252
+"15513533","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2095,"1288.95619439455",252
+"15513534","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Carbon|Demand|Transportation","US$2010/t CO2",2100,"1432.98156836455",252
+"15514638","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2020,"0.03492684",252
+"15514639","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2025,"0.25412538204",252
+"15514640","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2030,"0.9471377682",252
+"15514641","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2035,"1.56493938576",252
+"15514642","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2040,"2.066245570036",252
+"15514643","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2045,"2.370054649",252
+"15514644","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2050,"2.634852379",252
+"15514645","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2055,"2.827546661",252
+"15514646","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2060,"3.02525782",252
+"15514647","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2065,"3.18998414",252
+"15514648","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2070,"3.32804209",252
+"15514649","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2075,"3.43582649",252
+"15514650","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2080,"3.52233967",252
+"15514651","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2085,"3.58223427",252
+"15514652","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2090,"3.62500001",252
+"15514653","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2095,"3.64982997",252
+"15514654","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Electricity","EJ/yr",2100,"3.65090708",252
+"15515198","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2020,"0.03500193",252
+"15515199","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2025,"0.27316805052",252
+"15515200","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2030,"1.06385762882",252
+"15515201","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2035,"1.80621370974",252
+"15515202","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2040,"2.468119301",252
+"15515203","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2045,"3.1417371022",252
+"15515204","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2050,"4.757044754",252
+"15515205","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2055,"5.90328193",252
+"15515206","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2060,"6.97698554",252
+"15515207","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2065,"7.66269338",252
+"15515208","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2070,"8.17900367",252
+"15515209","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2075,"8.66163908",252
+"15515210","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2080,"9.11353665",252
+"15515211","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2085,"9.44169555",252
+"15515212","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2090,"9.6626824",252
+"15515213","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2095,"9.80846393",252
+"15515214","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Electricity","EJ/yr",2100,"9.94526507",252
+"15516318","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2020,"0.0555822",252
+"15516319","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2025,"0.0542082",252
+"15516320","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2030,"0.0396707",252
+"15516321","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2035,"0.0280267",252
+"15516322","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2040,"0.02230513",252
+"15516323","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2045,"0.0184906",252
+"15516324","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2050,"0.0163099",252
+"15516325","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2055,"0.01557128",252
+"15516326","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2060,"0.0153821",252
+"15516327","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2065,"0.01545465",252
+"15516328","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2070,"0.01549926",252
+"15516329","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2075,"0.01549931",252
+"15516330","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2080,"0.01543652",252
+"15516331","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2085,"0.01532456",252
+"15516332","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2090,"0.01517017",252
+"15516333","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2095,"0.01497568",252
+"15516334","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Gases","EJ/yr",2100,"0.01474805",252
+"15516878","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2020,"0.055596",252
+"15516879","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2025,"0.0542578",252
+"15516880","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2030,"0.0394378",252
+"15516881","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2035,"0.02746063",252
+"15516882","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2040,"0.02134581",252
+"15516883","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2045,"0.01704469",252
+"15516884","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2050,"0.01366877",252
+"15516885","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2055,"0.01205688",252
+"15516886","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2060,"0.0108439",252
+"15516887","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2065,"0.01048088",252
+"15516888","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2070,"0.01014725",252
+"15516889","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2075,"0.0098121299999999",252
+"15516890","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2080,"0.00923478",252
+"15516891","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2085,"0.00879992",252
+"15516892","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2090,"0.00850827",252
+"15516893","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2095,"0.00834147",252
+"15516894","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Gases","EJ/yr",2100,"0.00787457",252
+"15517998","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2020,"27.89547155",252
+"15517999","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2025,"27.23104209",252
+"15518000","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2030,"24.60702449",252
+"15518001","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2035,"21.97439938",252
+"15518002","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2040,"20.4366796",252
+"15518003","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2045,"19.9162185",252
+"15518004","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2050,"19.424966",252
+"15518005","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2055,"19.2562631",252
+"15518006","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2060,"19.2657671",252
+"15518007","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2065,"19.4755565",252
+"15518008","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2070,"19.798871",252
+"15518009","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2075,"20.1770197",252
+"15518010","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2080,"20.617523",252
+"15518011","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2085,"21.0792592",252
+"15518012","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2090,"21.5391601",252
+"15518013","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2095,"22.0020861",252
+"15518014","GCAM 5.3+ NGFS","Current Policies","USA","Final Energy|Transportation|Liquids","EJ/yr",2100,"22.4706387",252
+"15518558","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2020,"27.89129525",252
+"15518559","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2025,"25.87303309",252
+"15518560","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2030,"22.82852259",252
+"15518561","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2035,"19.44826371",252
+"15518562","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2040,"16.9513405",252
+"15518563","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2045,"14.3650547",252
+"15518564","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2050,"9.500036",252
+"15518565","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2055,"7.193585531",252
+"15518566","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2060,"5.09855207327",252
+"15518567","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2065,"4.07871155237",252
+"15518568","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2070,"3.392028596345",252
+"15518569","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2075,"2.775348528588",252
+"15518570","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2080,"2.2152335201938",252
+"15518571","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2085,"1.8715616221181",252
+"15518572","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2090,"1.65648969554952",252
+"15518573","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2095,"1.54590685349644",252
+"15518574","GCAM 5.3+ NGFS","Net Zero 2050","USA","Final Energy|Transportation|Liquids","EJ/yr",2100,"1.36045373103924",252
+"15519678","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2020,"32.9161146664",252
+"15519679","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2025,"31.99392250864",252
+"15519680","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2030,"31.0573352192",252
+"15519681","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2035,"30.98658605184",252
+"15519682","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2040,"31.24395551376",252
+"15519683","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2045,"31.29588772648",252
+"15519684","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2050,"30.98177691592",252
+"15519685","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2055,"30.78737808608",252
+"15519686","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2060,"30.31682511576",252
+"15519687","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2065,"30.5580242616",252
+"15519688","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2070,"30.25198247104",252
+"15519689","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2075,"29.92744648664",252
+"15519690","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2080,"29.33182370632",252
+"15519691","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2085,"28.89971154728",252
+"15519692","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2090,"28.44145576344",252
+"15519693","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2095,"28.18340850384",252
+"15519694","GCAM 5.3+ NGFS","Current Policies","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2100,"29.22766879616",252
+"15520238","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2020,"32.4523073968",252
+"15520239","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2025,"38.0150897848",252
+"15520240","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2030,"38.5347346728",252
+"15520241","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2035,"37.6606984264",252
+"15520242","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2040,"38.8035944192",252
+"15520243","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2045,"41.736199048",252
+"15520244","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2050,"44.0465208544",252
+"15520245","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2055,"43.3558127424",252
+"15520246","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2060,"43.430693248",252
+"15520247","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2065,"42.7293340296",252
+"15520248","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2070,"42.2836013648",252
+"15520249","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2075,"42.0518591104",252
+"15520250","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2080,"42.0066725984",252
+"15520251","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2085,"41.5112347704",252
+"15520252","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2090,"41.227850788",252
+"15520253","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2095,"41.084222232",252
+"15520254","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Final Energy|Residential and Commercial|Residential|Electricity","US$2010/GJ",2100,"43.1101917736",252
+"15521358","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2020,"20.5393676492",252
+"15521359","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2025,"20.87775007192",252
+"15521360","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2030,"20.98261505584",252
+"15521361","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2035,"20.80377329656",252
+"15521362","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2040,"20.8030632228",252
+"15521363","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2045,"20.52561803912",252
+"15521364","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2050,"20.05871226584",252
+"15521365","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2055,"19.66930136064",252
+"15521366","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2060,"19.36138755744",252
+"15521367","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2065,"19.03313982384",252
+"15521368","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2070,"18.75114371288",252
+"15521369","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2075,"18.48586661136",252
+"15521370","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2080,"18.11533721296",252
+"15521371","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2085,"17.70136421088",252
+"15521372","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2090,"17.26650858504",252
+"15521373","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2095,"16.8460158148",252
+"15521374","GCAM 5.3+ NGFS","Current Policies","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2100,"16.45663718568",252
+"15521918","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2020,"20.55883012544",252
+"15521919","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2025,"21.4723077416",252
+"15521920","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2030,"20.91031663664",252
+"15521921","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2035,"20.81287515112",252
+"15521922","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2040,"21.18814913328",252
+"15521923","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2045,"21.70795540168",252
+"15521924","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2050,"21.9306280776",252
+"15521925","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2055,"20.27057245496",252
+"15521926","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2060,"20.06471561672",252
+"15521927","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2065,"19.76235329928",252
+"15521928","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2070,"21.156163538",252
+"15521929","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2075,"23.4398575784",252
+"15521930","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2080,"25.0851307564",252
+"15521931","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2085,"25.6911141584",252
+"15521932","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2090,"25.41689658272",252
+"15521933","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2095,"24.85267842824",252
+"15521934","GCAM 5.3+ NGFS","Net Zero 2050","USA","Price|Secondary Energy|Liquids","US$2010/GJ",2100,"24.5114234344",252
+"15523038","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2020,"19054259.3",252
+"15523039","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2025,"20338395.1",252
+"15523040","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2030,"21471044",252
+"15523041","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2035,"22933166.492",252
+"15523042","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2040,"23891549.72",252
+"15523043","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2045,"24817479.63",252
+"15523044","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2050,"25705848.8",252
+"15523045","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2055,"26417147.4",252
+"15523046","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2060,"27140056.9",252
+"15523047","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2065,"27926185.6",252
+"15523048","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2070,"28688596.1",252
+"15523049","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2075,"29412532.4",252
+"15523050","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2080,"30195682",252
+"15523051","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2085,"30974148.1",252
+"15523052","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2090,"31745528.1",252
+"15523053","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2095,"32499956.1",252
+"15523054","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Freight","billion tkm/yr",2100,"33207160.3",252
+"15523598","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2020,"19048050.6",252
+"15523599","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2025,"18123255.4",252
+"15523600","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2030,"18747069",252
+"15523601","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2035,"19744360.06",252
+"15523602","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2040,"19885863.91",252
+"15523603","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2045,"18877158.1",252
+"15523604","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2050,"17912470.64",252
+"15523605","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2055,"18328483.503",252
+"15523606","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2060,"18904893.2939",252
+"15523607","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2065,"19502212.71108",252
+"15523608","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2070,"20051486.46198",252
+"15523609","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2075,"20464806.5987",252
+"15523610","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2080,"20826172.9222595",252
+"15523611","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2085,"21268789.3564616",252
+"15523612","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2090,"21727374.5080574",252
+"15523613","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2095,"22156697.1001328",252
+"15523614","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Freight","billion tkm/yr",2100,"22434025.0904082",252
+"15524718","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2020,"10260557.534",252
+"15524719","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2025,"11098132.21",252
+"15524720","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2030,"11805905.38",252
+"15524721","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2035,"12348714.356248",252
+"15524722","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2040,"12827721.027",252
+"15524723","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2045,"13278445.878",252
+"15524724","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2050,"13710396.62",252
+"15524725","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2055,"14108843.66",252
+"15524726","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2060,"14510204.43",252
+"15524727","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2065,"14895344.07",252
+"15524728","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2070,"15247442.41",252
+"15524729","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2075,"15556143.26",252
+"15524730","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2080,"15829015.14",252
+"15524731","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2085,"16055064.87",252
+"15524732","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2090,"16241108.4",252
+"15524733","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2095,"16387446.55",252
+"15524734","GCAM 5.3+ NGFS","Current Policies","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2100,"16483397.97",252
+"15525278","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2020,"10259759.73",252
+"15525279","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2025,"10798093.1",252
+"15525280","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2030,"11457379.82",252
+"15525281","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2035,"11944776.49994",252
+"15525282","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2040,"12324558.6738",252
+"15525283","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2045,"12547095.08",252
+"15525284","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2050,"12851715.33",252
+"15525285","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2055,"13295720.19",252
+"15525286","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2060,"13729236.53",252
+"15525287","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2065,"14132136.79",252
+"15525288","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2070,"14493984.48",252
+"15525289","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2075,"14810027.5",252
+"15525290","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2080,"15085187.56",252
+"15525291","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2085,"15309840.76",252
+"15525292","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2090,"15488976.61",252
+"15525293","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2095,"15628836.85",252
+"15525294","GCAM 5.3+ NGFS","Net Zero 2050","USA","Energy Service|Transportation|Passenger","billion pkm/yr",2100,"15723702.4",252
